@@ -1,5 +1,7 @@
 # ML-lab
 
+---
+# descripcion del laboraorio 1 y 2
 añadi al lab 1, el lab 2, el archivo es un cuadernillo completo
 
 ## sobre el dataset
